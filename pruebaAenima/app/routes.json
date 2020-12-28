@@ -1,0 +1,8 @@
+{
+    "/productos":"/app/pages/productos.js",
+    "/producto":"/app/pages/producto.js",
+    "/productos/add":"/app/pages/productoForm.js",
+    "/productos/edit":"/app/pages/productoForm.js",
+    
+    "default":"/app/pages/productos.js"
+}
